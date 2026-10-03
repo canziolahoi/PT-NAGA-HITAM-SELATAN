@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://canziolahoi.github.io/PT-NAGA-HITAM-SELATAN/sitemap.xml
